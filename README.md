@@ -1,7 +1,8 @@
 1357280
 =======
 
-Week 10: Text classification, clustering and topic models\\
+Week 10: Text classification, clustering and topic models\
+\
 Author: Catalina Obando Forero <C.Obando-Forero@warwick.ac.uk>
 Student id number: 1357280
 
